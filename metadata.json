@@ -1,0 +1,6 @@
+{
+  "name": "VitaForce Suplementos",
+  "description": "Loja de e-commerce premium de suplementação e saúde com consultor virtual inteligente de nutrição integrado por inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
